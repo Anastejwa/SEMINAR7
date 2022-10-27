@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/bin/Debug/net6.0/Задача47
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/bin/Debug/net6.0/Задача47.deps.json
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/bin/Debug/net6.0/Задача47.runtimeconfig.json
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/bin/Debug/net6.0/Задача47.dll
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/bin/Debug/net6.0/Задача47.pdb
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.AssemblyInfo.cs
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.dll
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/refint/Задача47.dll
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.pdb
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/Задача47.genruntimeconfig.cache
+/Users/MacBook/Desktop/DZ.Seminar7/Задача47/obj/Debug/net6.0/ref/Задача47.dll
